@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+nav#navigation {
+  justify-content: center;
+  text-align: center;
+  padding-left: 35%;
+  height: 80px;
+}
+a.navbar-brand {
+  font-size: 30px;
+  font-family: cursive;
+}
+
+div#navbarSupportedContent {
+  margin-left: 60px;
+}
+
+.App-body {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  background-color: beige;
+}
+aside {
+  background-color: darkturquoise;
+}
+.card {
+  max-width: 18rem;
+}
